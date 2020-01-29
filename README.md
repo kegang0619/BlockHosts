@@ -1,4 +1,4 @@
-[View raw](https://raw.githubusercontent.com/kegang0619/BlockHosts/master/hosts) | [Download](https://github.com/kegang0619/BlockHosts/raw/master/hosts)
+[Download](https://github.com/kegang0619/BlockHosts/raw/master/hosts) (Right click to download)
 
 The hosts file contains 68,456+ links: 
 ```
