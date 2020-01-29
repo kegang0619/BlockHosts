@@ -14,7 +14,7 @@ mac OS (until 10.14.x macOS Mojave), iOS, Android, Linux: /etc/hosts
 
 macOS Catalina: /private/etc/hosts
 ```
-<br><br>
+<br>
 
 # Description & Download
 
