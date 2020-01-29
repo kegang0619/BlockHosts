@@ -1,4 +1,5 @@
 #Block Host for South Korea
+
 You can block websites you don't want to use or accidentally access.
 
 Add the Hosts file to your PC, containing the websites link, and it will basically block your access to them. It will not depend on whatever OS you have.
