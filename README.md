@@ -4,7 +4,7 @@ The hosts file contains 68,456+ links:
 ```
 Unified hosts(adware + malware) + gambling + porn links from https://github.com/StevenBlack/hosts
 ```
-and + **regional edition for South Korea: Illegal, subjective Korean websites**.
+and + **regional edition for South Korea: Illegal, suggestive Korean websites**.
 <br><br>
 
 # Block Host for South Korea
