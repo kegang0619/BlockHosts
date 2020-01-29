@@ -7,7 +7,7 @@ Unified hosts(adware + malware) + gambling + porn links from https://github.com/
 and + **regional edition for South Korea: Illegal, suggestive Korean websites**.
 <br><br>
 
-# Block Host for South Korea
+# What is it?
 
 You can block websites you don't want to use or accidentally access.
 
