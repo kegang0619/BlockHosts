@@ -1,4 +1,4 @@
-#Block Host for South Korea
+# Block Host for South Korea
 
 You can block websites you don't want to use or accidentally access.
 
@@ -19,7 +19,7 @@ macOS Catalina: /private/etc/hosts
 
 [View raw](https://raw.githubusercontent.com/kegang0619/BlockHosts/master/hosts) | [Download](https://github.com/kegang0619/BlockHosts/raw/master/hosts)
 
-The hosts file contains:
+The hosts file contains 68,456+ links: 
 ```
 Unified hosts(adware + malware) + gambling + porn links from https://github.com/StevenBlack/hosts
 ```
