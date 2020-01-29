@@ -5,6 +5,8 @@ You can block websites you don't want to use or accidentally access.
 Add the Hosts file to your PC, containing the websites link, and it will basically block your access to them. It will not depend on whatever OS you have.
 
 
+
+
 # Where to put the hosts file?
 
 ```
@@ -14,6 +16,8 @@ mac OS (until 10.14.x macOS Mojave), iOS, Android, Linux: /etc/hosts
 
 macOS Catalina: /private/etc/hosts
 ```
+
+
 
 # Description & Download
 
