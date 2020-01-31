@@ -23,3 +23,6 @@ mac OS (until 10.14.x macOS Mojave), iOS, Android, Linux: /etc/hosts
 
 macOS Catalina: /private/etc/hosts
 ```
+
+**You need to remove the filetype of the hosts file.
+hosts.txt -> hosts**
