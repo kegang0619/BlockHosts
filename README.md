@@ -25,4 +25,5 @@ macOS Catalina: /private/etc/hosts
 ```
 
 **You need to remove the filetype of the hosts file.
+
 hosts.txt -> hosts**
