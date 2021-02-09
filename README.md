@@ -1,4 +1,5 @@
-[Download](https://github.com/kegang0619/BlockHosts/raw/master/hosts)
+[![GitHub release](https://img.shields.io/github/release/kegang0619/BlockHosts?include_prereleases=&sort=semver)](https://github.com/kegang0619/BlockHosts/releases/)
+[![Download](https://img.shields.io/badge/Download-informational)](https://raw.githubusercontent.com/kegang0619/BlockHosts/master/hosts.txt)
 
 The hosts file contains 68,456+ links: 
 ```
